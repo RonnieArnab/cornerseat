@@ -1,16 +1,17 @@
 # cornerseat
 
-A new Flutter project.
+apk file is in the folowing file location : apk/app-release.apk
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+Android
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshots/android_splash_screen.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/android_login_screen.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/android_accepted_screen.png" alt="Quiz App Screenshot" width="400">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+IOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/ios_splash_screen.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/ios_login_screen.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/ios_accepted_screen.png" alt="Quiz App Screenshot" width="400">
