@@ -1,4 +1,4 @@
-import 'package:cornerseat/accepted.dart';
+import 'package:cornerseat/accepted_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -187,7 +187,7 @@ class _EmailScreenState extends State<EmailScreen> {
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => const Accepted(),
+                              builder: (context) => const AcceptedScreen(),
                             ),
                           );
                         },

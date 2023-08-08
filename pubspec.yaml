@@ -65,6 +65,9 @@ flutter:
     - assets/images/Group.png
     - assets/images/profile.png
     - assets/images/vector.png
+    - assets/images/background-1.png
+    - assets/images/background-2.png
+    - assets/images/background-3.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
