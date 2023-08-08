@@ -29,7 +29,7 @@ class Accepted extends StatelessWidget {
                     width: 5,
                   ),
                   Text(
-                    "Its a date!",
+                    "Its a date !",
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
