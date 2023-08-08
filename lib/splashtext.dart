@@ -1,28 +1,8 @@
-import 'dart:async';
-import 'package:cornerseat/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class Splash extends StatefulWidget {
-  const Splash({super.key});
-
-  @override
-  State<Splash> createState() => _SplashState();
-}
-
-class _SplashState extends State<Splash> {
-  @override
-  void initState() {
-    Timer(const Duration(seconds: 5), () {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(
-          builder: (context) => const EmailScreen(),
-        ),
-      );
-    });
-    super.initState();
-  }
+class SplashScreen extends StatelessWidget {
+  const SplashScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
